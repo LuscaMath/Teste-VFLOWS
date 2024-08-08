@@ -1,0 +1,27 @@
+fieldset {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+legend {
+    width: auto;
+    padding: 0 10px;
+    border-bottom: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+
+.produtoImagemPreview {
+    padding: 1rem;
+    border-radius: 50%;
+    background-color: #007bff;
+}
+
+.btn-100 {
+    width: 100%;
+}
